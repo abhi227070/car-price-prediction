@@ -1,1 +1,1 @@
-https://car-price-prediction-abhijeet.herokuapp.com/
+https://car-price-prediction-g1co.onrender.com
